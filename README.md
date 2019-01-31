@@ -1,2 +1,2 @@
 # tweetTrump
-sentiment analysis for trump
+sentiment analysis for American President Donald Trump
