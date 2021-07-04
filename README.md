@@ -1,2 +1,1 @@
-# tweetTrump
-sentiment analysis for American President Donald Trump
+# Text analysis on 45th American President Donald Trump
